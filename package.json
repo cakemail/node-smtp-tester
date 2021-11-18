@@ -1,0 +1,14 @@
+{
+  "name": "nodesmtp",
+  "version": "1.0.0",
+  "description": "Test Cakemail's SMTP endpoint using your account",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cakemail",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.7.1"
+  }
+}
